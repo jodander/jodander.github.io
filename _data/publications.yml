@@ -20,3 +20,32 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
+
+  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+    authors: Joel Daniel Andersson, Rasmus Pagh
+    conference_short: NeurIPS
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
+
+  - title: "SixTrack Version 5: Status and New Developments"
+    authors: Ricardo de Maria et al.
+    conference_short: IPAC
+    conference: International Particle Accelerator Conference <strong>(IPAC)</strong>, 2019.
+    pdf:  https://accelconf.web.cern.ch/ipac2019/papers/wepts043.pdf 
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://accelconf.web.cern.ch/ipac2019/doi/JACoW-IPAC2019-WEPTS043.html
+    bibtex: https://accelconf.web.cern.ch/ipac2019/export/WEPTS043-bib.htm
+
+  - title: "SixTrack Project: Status, Runtime Environment, and New Developments"
+    authors: Ricardo de Maria et al.
+    conference_short: ICAP
+    conference: International Computational Accelerator Physics Conference <strong>(ICAP)</strong>, 2018.
+    pdf: https://accelconf.web.cern.ch/icap2018/papers/tupaf02.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://accelconf.web.cern.ch/icap2018/doi/JACoW-ICAP2018-TUPAF02.html
+    bibtex: https://accelconf.web.cern.ch/icap2018/export/TUPAF02-bib.htm

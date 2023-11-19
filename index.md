@@ -4,20 +4,24 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Welcome to my personal webpage!
 
-## Research Interests
+I am a PhD student at the University of Copenhagen advised by [Rasmus Pagh](https://rasmuspagh.net/). I am interested in [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy) broadly, and problems in the continual observation setting in particular. I am a member of the [Providentia](https://www.rasmuspagh.net/providentia/) project, a part of [BARC](https://barc.ku.dk/).
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+<!-- Prior to starting my PhD, I received my master's degree in Engineering Physics from Lund Unversity in 2020. My [master's thesis](https://lup.lub.lu.se/student-papers/search/publication/8998721) was written at CERN and involved designing a linear framework for orbit correction in HL-LHC. After graduating I had a stint as a Baseband Software Engineer at Ericsson, implementing algorithms for 5G in Downlink L1. -->
+
+In my spare time I enjoy running, live music, and craft beer.
+
+<!-- ## Research Interests -->
+
+<!-- - **Computer Vision:** image recognition, image generation, video captioning -->
+<!-- - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sept. 2023]** Our [paper on improving the binary mechanism](https://arxiv.org/abs/2306.09666) made it into NeurIPS!
+- **[Sept. 2022]** Started my PhD
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
