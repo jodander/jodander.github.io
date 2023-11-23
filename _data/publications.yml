@@ -1,51 +1,44 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  - title: "A Smooth Binary Mechanism for Efficient Private Continual Observation"
     authors: Joel Daniel Andersson, Rasmus Pagh
     conference_short: NeurIPS
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2306.09666.pdf
+    code: https://github.com/jodander/smooth-binary-mechanism
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: To appear at NeurIPS'23
+    # image: ./assets/img/teaser_example.png
+
+  - title: "A Linear Framework for Orbit Correction in the High-Luminosity Large Hadron Collider"
+    authors: Joel Daniel Andersson
+    conference_short: Master's thesis
+    conference: Lund University, 2020.
+    pdf: https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8998721&fileOId=8998728
+    bibtex: http://lup.lub.lu.se/student-papers/record/8998721
+    # image: ./assets/img/teaser_example.png
+
+  - title: "Orbit Correction Studies on the HL–LHC Layout and Optics V1.5"
+    authors: Joel Daniel Andersson, Riccardo De Maria, Davide Gamba
+    conference_short: Report
+    conference: CERN, 2020.
+    pdf:  https://cds.cern.ch/record/2731920/files/CERN-ACC-NOTE-2020-0045.pdf
+    bibtex: https://cds.cern.ch/record/2731920/export/hx?ln=en
 
   - title: "SixTrack Version 5: Status and New Developments"
-    authors: Ricardo de Maria et al.
+    authors: Riccardo De Maria et al.
     conference_short: IPAC
     conference: International Particle Accelerator Conference <strong>(IPAC)</strong>, 2019.
     pdf:  https://accelconf.web.cern.ch/ipac2019/papers/wepts043.pdf 
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://accelconf.web.cern.ch/ipac2019/doi/JACoW-IPAC2019-WEPTS043.html
+    code: https://github.com/SixTrack/SixTrack
+    page: http://sixtrack.web.cern.ch/SixTrack/
     bibtex: https://accelconf.web.cern.ch/ipac2019/export/WEPTS043-bib.htm
 
   - title: "SixTrack Project: Status, Runtime Environment, and New Developments"
-    authors: Ricardo de Maria et al.
+    authors: Riccardo De Maria et al.
     conference_short: ICAP
     conference: International Computational Accelerator Physics Conference <strong>(ICAP)</strong>, 2018.
     pdf: https://accelconf.web.cern.ch/icap2018/papers/tupaf02.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://accelconf.web.cern.ch/icap2018/doi/JACoW-ICAP2018-TUPAF02.html
+    code: https://github.com/SixTrack/SixTrack
+    page: http://sixtrack.web.cern.ch/SixTrack/ 
     bibtex: https://accelconf.web.cern.ch/icap2018/export/TUPAF02-bib.htm
