@@ -2,7 +2,7 @@ main:
 
   - title: "A Smooth Binary Mechanism for Efficient Private Continual Observation"
     authors: Joel Daniel Andersson, Rasmus Pagh
-    conference_short: NeurIPS
+    # conference_short: NeurIPS
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.09666.pdf
     code: https://github.com/jodander/smooth-binary-mechanism
@@ -12,7 +12,7 @@ main:
 
   - title: "A Linear Framework for Orbit Correction in the High-Luminosity Large Hadron Collider"
     authors: Joel Daniel Andersson
-    conference_short: Master's thesis
+    # conference_short: Master's thesis
     conference: Lund University, 2020.
     pdf: https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8998721&fileOId=8998728
     bibtex: http://lup.lub.lu.se/student-papers/record/8998721
@@ -20,14 +20,14 @@ main:
 
   - title: "Orbit Correction Studies on the HL–LHC Layout and Optics V1.5"
     authors: Joel Daniel Andersson, Riccardo De Maria, Davide Gamba
-    conference_short: Report
+    # conference_short: Report
     conference: CERN, 2020.
     pdf:  https://cds.cern.ch/record/2731920/files/CERN-ACC-NOTE-2020-0045.pdf
     bibtex: https://cds.cern.ch/record/2731920/export/hx?ln=en
 
   - title: "SixTrack Version 5: Status and New Developments"
     authors: Riccardo De Maria et al.
-    conference_short: IPAC
+    # conference_short: IPAC
     conference: International Particle Accelerator Conference <strong>(IPAC)</strong>, 2019.
     pdf:  https://accelconf.web.cern.ch/ipac2019/papers/wepts043.pdf 
     code: https://github.com/SixTrack/SixTrack
@@ -36,7 +36,7 @@ main:
 
   - title: "SixTrack Project: Status, Runtime Environment, and New Developments"
     authors: Riccardo De Maria et al.
-    conference_short: ICAP
+    # conference_short: ICAP
     conference: International Computational Accelerator Physics Conference <strong>(ICAP)</strong>, 2018.
     pdf: https://accelconf.web.cern.ch/icap2018/papers/tupaf02.pdf
     code: https://github.com/SixTrack/SixTrack
